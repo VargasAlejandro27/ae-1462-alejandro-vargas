@@ -1,0 +1,8 @@
+# Use this workspace to collaborate
+workspace:
+  id: 0b077878-8b3d-498d-8b39-bf0c74769303
+
+localResources:
+  collections:
+    - ..\ae-1473-nombre-apellido.postman_collection.json
+    - ..\coleccion.json
