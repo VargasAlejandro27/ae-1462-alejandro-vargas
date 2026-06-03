@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ae-1473-nombre-apellido.iml" filepath="$PROJECT_DIR$/.idea/modules/ae-1473-nombre-apellido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ae-1473-nombre-apellido.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ae-1473-nombre-apellido.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ae-1473-nombre-apellido.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ae-1473-nombre-apellido.test.iml" />
+    </modules>
+  </component>
+</project>
